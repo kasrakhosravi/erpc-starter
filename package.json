@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Start ERPC",
   "main": "index.js",
-  "scripts": {
-    "start": "npx --yes start-erpc"
-  },
   "keywords": ["rpc", "erpc", "start-erpc", "web3"],
   "license": "MIT"
 }
