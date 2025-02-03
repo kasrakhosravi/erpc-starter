@@ -2,7 +2,6 @@
   "name": "start-erpc",
   "version": "1.0.0",
   "description": "Start ERPC",
-  "main": "index.js",
   "keywords": ["rpc", "erpc", "start-erpc", "web3"],
   "license": "MIT"
 }
