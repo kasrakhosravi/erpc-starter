@@ -1,0 +1,9 @@
+{
+  "name": "start-erpc",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "npx start-erpc"
+  },
+  "keywords": ["rpc", "erpc", "start-erpc", "web3"],
+  "license": "MIT"
+}
